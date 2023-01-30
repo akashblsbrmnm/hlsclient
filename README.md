@@ -15,4 +15,4 @@ This project expects to implement HLS server and player in the client over netwo
  ## Gstreamer
  https://gstreamer.freedesktop.org/documentation/tutorials/index.html?gi-language=c
   ## Design
- ![ServerClientArchitecture](https://infygithubeta.ad.infosys.com/Oct22-Set1-CS-NCS-ENG-NW-Media/Team2/blob/main/references/hls-server.png?raw=true)
+ ![ServerClientArchitecture](https://github.com/akashblsbrmnm/hlsclient/blob/main/references/hls-server.png?raw=true)
