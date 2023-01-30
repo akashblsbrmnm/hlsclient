@@ -1,0 +1,21 @@
+SCRUM MASTER
+---------------------------------
+Akash D B (akash.b12@infosys.com)
+
+TEAM 2
+----------------------------------
+Akash D B [SCRUM MASTER] (akash.b12@infosys.com)
+Saurav Santhosh (saurav.santhosh@infosys.com)
+K V Saurav Krishna (kvsaurav.krishna@infosys.com)
+Rishikesh V (rishikesh.v@infosys.com)
+Shelmy Shabu (shelmy.shabu@infosys.com)
+Kavya P (kavya.p10@infosys.com)
+
+TEAM ROLES
+-------------------------------------
+Decode : Shelmy Shabu
+Client : Akash D B
+Server : Saurav Santhosh
+Parser : Rishikesh V
+Adaptive Bit Rate : Saurav Krishna
+UI : Kavya P
